@@ -1,7 +1,9 @@
 ### Hi there 👋
+<br/>
+- :desktop_computer: Information System Undergraduate 
+- :world_map: University of São Paulo (USP)
 
-- :desktop_computer: Information System Undergraduate at University of São Paulo (USP)
-
+<br/><br/>
 <div>
 <a href="https://github.com/Anemaygi">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anemaygi&layout=compact&langs_count=7&theme=dracula"/>
