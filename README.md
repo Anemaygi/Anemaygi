@@ -1,7 +1,7 @@
 ### Hi there 👋
 <br/>
-- :desktop_computer: Information System Undergraduate <br/>
-- :world_map: University of São Paulo (USP)
+• :desktop_computer: Information System Undergraduate <br/>
+• :books: University of São Paulo (USP)
 
 <br/><br/>
 <div>
