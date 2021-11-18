@@ -1,6 +1,6 @@
 ### Hi there 👋
 <br/>
-- :desktop_computer: Information System Undergraduate 
+- :desktop_computer: Information System Undergraduate <br/>
 - :world_map: University of São Paulo (USP)
 
 <br/><br/>
