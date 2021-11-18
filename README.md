@@ -1,26 +1,27 @@
-### Hi there 👋
+
+
+## Hi there 👋
 <br/>
 • :desktop_computer: Information System Undergraduate <br/>
 • :books: University of São Paulo (USP)
-
 <br/><br/>
+
 <div>
 <a href="https://github.com/Anemaygi">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anemaygi&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anemaygi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+
+<br/>
 <!--
-**Anemaygi/Anemaygi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🖱️ Tecnologies
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" title = "HTML5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" title = "CSS3"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title = "JAVASCRIPT"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-plain.svg" title = "C"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" title = "Linux"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MySQL"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" title = "PostgreSQL"/></code>
 -->
