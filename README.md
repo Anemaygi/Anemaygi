@@ -1,11 +1,17 @@
 
-
 ## Hi there 👋
 <br/>
 • :desktop_computer: Information System Undergraduate <br/>
 • :books: University of São Paulo (USP)
-<br/><br/>
+<br/>
 
+
+  
+  <a href='https://www.linkendin.com/in/gianemayumi'>
+    <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn Badge' />
+  </a>
+
+<br/><br/>
 <div>
 <a href="https://github.com/Anemaygi">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anemaygi&layout=compact&langs_count=7&theme=panda"/>
