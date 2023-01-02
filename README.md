@@ -1,25 +1,20 @@
 
-## Hi there 👋
-<br/>
-• :desktop_computer: Information System Undergraduate <br/>
-• :books: University of São Paulo (USP)
-<br/>
+<h2 align="center">Hi 👋, I'm Giane Mayumi</h1>
+<h4 align="center">Information System Undergraduate Student at University of São Paulo</h3>
 
-
-  
+<p align="center">
   <a href='https://www.linkedin.com/in/gianemayumi/'>
     <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn Badge' />
   </a>
+</p>
 
-<br/><br/>
-<div>
+<div align="center">
 <a href="https://github.com/Anemaygi">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anemaygi&layout=compact&langs_count=7&theme=panda"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anemaygi&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
 </div>
 
-
-<br/>
+  
 <!--
 ### 🖱️ Tecnologies
 
