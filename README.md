@@ -29,7 +29,7 @@
 </pre>
 
 
-<div align="center" >
+<div align="right" >
 
 <!-- Stats -->
 <pre>
