@@ -1,31 +1,46 @@
+<!-- Welcome to my profile code :) -->
+
+<!-- Hi there text -->
+
+<div align="center" >
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=33&pause=1000&color=AE81CE&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B)](https://git.io/typing-svg)
+
+</div>
+
+
+
+<!-- Side Image -->
+
+<img src="https://i.imgur.com/B72xOeX.png" width="22%" align="right" />
 
 
 
 
-<h2 align="center">Hi 👋, I'm Giane Mayumi</h1>
-<h4 align="center">Information System Undergraduate Student at University of São Paulo</h3>
+<!-- Introduction -->
 
-<p align="center">
-  <a href='https://www.linkedin.com/in/gianemayumi/'>
-    <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn Badge' />
-  </a>
-</p>
+<pre>
+  👩‍💻 I'm Giane Mayumi :)
 
-<div align="center">
-<a href="https://github.com/Anemaygi">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anemaygi&layout=compact&langs_count=7&theme=panda"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anemaygi&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-</div><br/>
+  📍 São Paulo - Brazil
+  💼 Information Systems @ USP • Web computing @ IFSP
+  💻 Front-end • Bioinformatics • Physical computing & IoT • InfoSec 
+  🌟 Check on my projects!
+</pre>
 
-  [![An image of @anemaygi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anemaygi)](https://holopin.io/@anemaygi)
-<!--
-### 🖱️ Tecnologies
 
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" title = "HTML5"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" title = "CSS3"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title = "JAVASCRIPT"/></code>
-<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-plain.svg" title = "C"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" title = "Linux"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MySQL"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" title = "PostgreSQL"/></code>
--->
+<div align="center" >
+
+<!-- Stats -->
+
+<img height="189em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anemaygi&layout=compact&langs_count=8&theme=material-palenight"/> <img height="189em" src="https://github-readme-stats.vercel.app/api?username=Anemaygi&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+
+
+<!-- Hyperlinks -->
+  
+[![](https://img.shields.io/badge/LinkedIn-0a66c2)](http://linkedin.com/in/gianemayumi)
+[![](https://img.shields.io/badge/Website-696af5)](https://anemaygi.github.io/)
+[![](https://img.shields.io/badge/CV-A864C8)](https://drive.google.com/uc?export=download&id=1OmtnlYn_Ar4IhaErO8TEUAH_sjCjSKqO)
+[![](https://img.shields.io/badge/Holopin-e75e9b)](https://holopin.me/anemaygi)
+
+</div>
