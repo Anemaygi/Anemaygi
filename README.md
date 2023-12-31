@@ -42,6 +42,6 @@
 [![](https://img.shields.io/badge/Website-696af5)](https://anemaygi.github.io/)
 [![](https://img.shields.io/badge/CV-A864C8)](https://drive.google.com/uc?export=download&id=1OmtnlYn_Ar4IhaErO8TEUAH_sjCjSKqO)
 [![](https://img.shields.io/badge/Holopin-e75e9b)](https://holopin.me/anemaygi)
-[![](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8E-ae81ce)](#)
+[![](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8E-ae81ce)]()
 
 </div>
