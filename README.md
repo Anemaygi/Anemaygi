@@ -9,12 +9,9 @@
 </div>
 
 
-
 <!-- Side Image -->
 
 <img src="https://i.imgur.com/B72xOeX.png" width="25%" align="right" />
-
-
 
 
 <!-- Introduction -->
@@ -29,18 +26,22 @@
 </pre>
 
 
-<div align="right" >
-
 <!-- Stats -->
+<div align="center" >
 <pre>
 <img height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anemaygi&layout=compact&langs_count=8&theme=material-palenight"/> <img height="145px" src="https://github-readme-stats.vercel.app/api?username=Anemaygi&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
 </pre>
+</div>
+
 
 <!-- Hyperlinks -->
+
+<div align="right" >
   
 [![](https://img.shields.io/badge/LinkedIn-0a66c2)](http://linkedin.com/in/gianemayumi)
 [![](https://img.shields.io/badge/Website-696af5)](https://anemaygi.github.io/)
 [![](https://img.shields.io/badge/CV-A864C8)](https://drive.google.com/uc?export=download&id=1OmtnlYn_Ar4IhaErO8TEUAH_sjCjSKqO)
 [![](https://img.shields.io/badge/Holopin-e75e9b)](https://holopin.me/anemaygi)
+[![](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8E-ae81ce)](#)
 
 </div>
