@@ -12,7 +12,7 @@
 
 <!-- Side Image -->
 
-<img src="https://i.imgur.com/B72xOeX.png" width="22%" align="right" />
+<img src="https://i.imgur.com/B72xOeX.png" width="25%" align="right" />
 
 
 
