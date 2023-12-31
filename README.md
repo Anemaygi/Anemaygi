@@ -4,7 +4,7 @@
 
 <div align="center" >
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=33&pause=1000&color=AE81CE&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=33&pause=1000&color=AE81CE&center=true&vCenter=true&repeat=true&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B)
 
 </div>
 
