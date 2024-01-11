@@ -20,7 +20,8 @@
   👩‍💻 I'm Giane Mayumi :)
 
   📍 São Paulo - Brazil
-  💼 Information Systems @ USP • Web computing @ IFSP
+  📚 Information Systems @ USP • Web computing @ IFSP
+  💼 Back-end SWE Intern @ VTEX
   💻 Front-end • Bioinformatics • Physical computing & IoT • InfoSec 
   🌟 Check on my projects!
 </pre>
