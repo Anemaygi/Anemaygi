@@ -21,7 +21,7 @@
 
   📍 São Paulo - Brazil
   📚 Information Systems @ USP • Web computing @ IFSP
-  💼 Back-end SWE Intern @ VTEX
+  💼 Back-end SWE Intern @ VTEX • Webdev freelancer
   💻 Front-end • Bioinformatics • Physical computing & IoT • InfoSec 
   🌟 Check on my projects!
 </pre>
