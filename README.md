@@ -21,7 +21,7 @@
 
   📍 São Paulo - Brazil
   📚 Information Systems @ USP • Web computing @ IFSP
-  💼 Research and Development Intern @ Bioinformatics Institue (A*STAR)
+  💼 Research and Development Intern @ Bioinformatics Institute (A*STAR)
   💻 Front-end • Bioinformatics • Physical computing & IoT • InfoSec 
   🌟 Check on my projects!
 </pre>
