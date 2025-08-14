@@ -19,11 +19,11 @@
 <pre>
   👩‍💻 I'm Giane Mayumi :)
 
-  📍 São Paulo - Brazil
-  📚 Information Systems @ USP • Web computing @ IFSP
-  💼 Front-end Software Engineer @ ImmunoQs
+  📍 Guarulhos, Brazil → Montreal, Canada
+  📚 Computer Science Graduate Student @ McGill University
+  🎓 B.Sc. in Information Systems @ USP • Technical Course in Web Computing @ IFSP
   💻 Webdev • Bioinformatics • Physical computing • InfoSec 
-  🌟 Check on my projects!
+  🌟 Explore my projects!
 </pre>
 
 
